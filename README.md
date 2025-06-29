@@ -17,7 +17,6 @@ A .NET Core 3.1 Web API that returns the current time using a custom clock inter
 1. Clone the repo:
    ```bash
    git clone https://github.com/<your-user>/super-service.git
-   cd super-service
    ```
 
 2. Run below command in powershell to Deploy:
